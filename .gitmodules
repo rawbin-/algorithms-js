@@ -1,0 +1,3 @@
+[submodule "combined"]
+	path = combined
+	url = https://github.com/rawbin-/algorithms-combined-js.git
