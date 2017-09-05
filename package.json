@@ -1,0 +1,23 @@
+{
+  "name": "algorithms-js",
+  "version": "1.0.0",
+  "description": "algorithms using js",
+  "main": "./src/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rawbin-/algorithms-js.git"
+  },
+  "keywords": [
+    "algorithms",
+    "javascript"
+  ],
+  "author": "rawbin-",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rawbin-/algorithms-js/issues"
+  },
+  "homepage": "https://github.com/rawbin-/algorithms-js#readme"
+}
